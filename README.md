@@ -1,6 +1,6 @@
 - 👋  Hi, I’m Tenzin woeser
 - 👀  I am a front-end developer.
-- 🌱 I’m currently learning backend languages like node.js with mogodb as database.
+- 🌱 Currently heavily invested in learning Full-stack (MERN).
 - 📫 How to reach me: tenzinwoeser15@gmail.com 
 
 <!---
